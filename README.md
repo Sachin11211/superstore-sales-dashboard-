@@ -1,6 +1,6 @@
 # Superstore Sales Dashboard
 
-A business intelligence dashboard analyzing 4 years of retail sales data (9,994 orders, 2014–2017) using Python and Plotly. Built as a resume/portfolio project targeting data science and business management roles.
+A dashboard analyzing 4 years of retail sales data (9,994 orders, 2014–2017) using Python and Plotly. Built as a resume/portfolio project targeting data science and business management roles.
 
 ---
 
@@ -102,4 +102,4 @@ Open `superstore_dashboard.html` in any browser for the full interactive dashboa
 
 ## Author
 
-Built as a portfolio project for data science and business management roles.
+Built as a portfolio project.
